@@ -1,37 +1,35 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-copyright: © 2019 GitHub User
+title: Daria Romanovskaia
+author: dariarom94
+email: romanovskaiadaria@gmail.com
+copyright: © 2021 Daria Romanovskaia
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  I am a computational biologist in the Bock lab in CeMM.
+  Single-cell sequencing | Machine learining | Epigenetics
 show_excerpts: false # set to true to show excerpts on the homepage
 
 lin:
   date_format: "%b %-d, %Y"
 
   # path to the author avatar image
-  avatar_path: assets/images/avatar.jpg
+  avatar_path: assets/images/Daria_Romanovskaia_website.jpg
 
   # generate social links
   social_links:
     twitter: jekyllrb
-    github:  jekyll
-    medium:  jekyll
-    rss: rss
-    dribbble: jekyll
-    facebook: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
+ #   github:  jekyll
+ #   medium:  jekyll
+ #   rss: rss
+ #   dribbble: jekyll
+ #   facebook: jekyll
+ #   flickr:   jekyll
+ #   instagram: jekyll
+ #   linkedin: jekyll
+ #   pinterest: jekyll
+ #   youtube_user: jekyll
+ #   youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+ #   telegram: jekyll
+ #   googleplus: +jekyll
+#    keybase: jekyll
 
 theme: lin
 
